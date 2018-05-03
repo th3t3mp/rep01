@@ -1,9 +1,9 @@
 {
 	"products": [
-		{"name": "Capsicums", "price": 100, "unit", "kg", "stock": 5},
-		{"name": "Tomatoes", "price": 80, "unit", "kg", "stock": 20},
-		{"name": "Potatoes", "price": 25, "unit", "kg", "stock": 50},
-		{"name": "Onions", "price": 60, "unit", "kg", "stock": 50},
-		{"name": "Carrots", "price": 20, "unit", "kg", "stock": 50}
+		{"name": "Capsicums", "price": 100, "unit": "kg", "stock": 5},
+		{"name": "Tomatoes", "price": 80, "unit": "kg", "stock": 20},
+		{"name": "Potatoes", "price": 25, "unit": "kg", "stock": 50},
+		{"name": "Onions", "price": 60, "unit": "kg", "stock": 50},
+		{"name": "Carrots", "price": 20, "unit": "kg", "stock": 50}
 	]
 }
